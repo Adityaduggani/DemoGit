@@ -5,4 +5,4 @@ View tasks: Display a list of all pending and completed tasks.
 Mark as complete: Check off tasks when finished.
 Delete tasks: Remove tasks no longer needed.
 visit Link :https://todo-app.streamlit.app/ 
-<a href="http://localhost:3000/"> https://adityaduggani.github.io/DemoGit/</a>
+<a href="http://localhost:3000/"> ToDo App/</a>
